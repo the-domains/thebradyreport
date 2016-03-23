@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Brady Report]]></title>
+        <description><![CDATA[The Brady Report]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Mar 2016 15:29:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple Is Getting Into Personalized Medicine]]></title>
+            <description><![CDATA[<article><h1>Apple Is Getting Into Personalized Medicine</h1><p>Apple is making it easier to collect your own medical data. Inspired by the overwhelming success of last year's ResearchKit -- an open source app platform that allows research institutes to recruit and measure participants in medical research studies by iPhone -- the tech company is launching CareKit, a platform that allows individual users to now share the research data they're collecting with healthcare providers and concerned loved ones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bdd6cd207c7457b92a2e464cb2a0232ef3a8f72.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/entry/apples-new-carekit-allows-users-to-collect-medical-data-for-their-own-use_us_56f18884e4b09bf44a9eb50f</link>
+            <guid isPermaLink="false">e7987c04-3df2-4c84-b175-06db8cc548a6</guid>
+            <pubDate>Wed, 23 Mar 2016 15:29:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
