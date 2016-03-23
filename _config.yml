@@ -1,28 +1,40 @@
-name: The Brady Report
 favicon: null
-layout_spectrum: 0.6864509012084454
-typography_spectrum: 0.7504917234182358
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: The Brady Report
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5311493
+  brandStrength: 0.4925663061439991
+  lightness: 0.2486573
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.4925663061439991
-  lightness: 0.9498870603274554
-  saturation: 0.3795621278695762
-  rhythmicContrast: 0.4958893528673798
-purpose: []
+  rhythmicContrast: 0.4958894
+typography_spectrum: 0.5064447
+layout_spectrum: 0.6686359
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
