@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Brady Report]]></title>
         <description><![CDATA[The Brady Report]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thebradyreport/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Wed, 23 Mar 2016 15:29:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/thebradyreport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FTC issues warning to apps covertly monitoring TV broadcasts]]></title>
+            <description><![CDATA[<article><h1>FTC issues warning to apps covertly monitoring TV broadcasts</h1><p>The FTC alleges that some unnamed app developers are using this tech to monitor the TV shows you're watching. Those warning letters (PDF) mention that the apps "would be capable of producing a detailed log of the television content viewed while a user's mobile device was turned on for the purpose of targeted advertising software and analytics."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/947b4b8f4416eb36c131e0be54bf4907e89e7817.jpg"></article>]]></description>
+            <link>http://ht.ly/ZHyW0</link>
+            <guid isPermaLink="false">68df072e-4abc-4a53-ae35-f955cc3754c5</guid>
+            <pubDate>Wed, 23 Mar 2016 15:29:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apple Is Getting Into Personalized Medicine]]></title>
             <description><![CDATA[<article><h1>Apple Is Getting Into Personalized Medicine</h1><p>Apple is making it easier to collect your own medical data. Inspired by the overwhelming success of last year's ResearchKit -- an open source app platform that allows research institutes to recruit and measure participants in medical research studies by iPhone -- the tech company is launching CareKit, a platform that allows individual users to now share the research data they're collecting with healthcare providers and concerned loved ones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bdd6cd207c7457b92a2e464cb2a0232ef3a8f72.jpg"></article>]]></description>
