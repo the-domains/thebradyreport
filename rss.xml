@@ -4,8 +4,15 @@
         <description><![CDATA[The Brady Report]]></description>
         <link>https://thegrid.ai/thebradyreport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 22:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 02:47:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebradyreport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A groundbreaking technology will soon let us see exactly what is in our food]]></title>
+            <description><![CDATA[<article><h1>A groundbreaking technology will soon let us see exactly what is in our food</h1><p>I have seen the future of food transparency, and it is optical. Also, it fits in your smartphone. Imagine a scanner the size of a grain of rice, built into your phone. You go to the grocery store and point it at something you want to buy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/619c6670dd0e256fa8f66070105e3b55357a36e1.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/a-groundbreaking-technology-will-soon-let-us-see-exactly-what-is-in-our-food-2016-3</link>
+            <guid isPermaLink="false">13a7947c-8419-4b6f-8878-4118cf7ffa26</guid>
+            <pubDate>Mon, 28 Mar 2016 02:47:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[You'll soon be able to 'holoport' anywhere in the world]]></title>
             <description><![CDATA[<article><h1>You'll soon be able to 'holoport' anywhere in the world</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fc36928e052023cbe586420e81b25baca732d84.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>FTC issues warning to apps covertly monitoring TV broadcasts</h1><p>The FTC alleges that some unnamed app developers are using this tech to monitor the TV shows you're watching. Those warning letters (PDF) mention that the apps "would be capable of producing a detailed log of the television content viewed while a user's mobile device was turned on for the purpose of targeted advertising software and analytics."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/947b4b8f4416eb36c131e0be54bf4907e89e7817.jpg"></article>]]></description>
             <link>http://ht.ly/ZHyW0</link>
             <guid isPermaLink="false">68df072e-4abc-4a53-ae35-f955cc3754c5</guid>
-            <pubDate>Wed, 23 Mar 2016 15:29:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple Is Getting Into Personalized Medicine]]></title>
-            <description><![CDATA[<article><h1>Apple Is Getting Into Personalized Medicine</h1><p>Apple is making it easier to collect your own medical data. Inspired by the overwhelming success of last year's ResearchKit -- an open source app platform that allows research institutes to recruit and measure participants in medical research studies by iPhone -- the tech company is launching CareKit, a platform that allows individual users to now share the research data they're collecting with healthcare providers and concerned loved ones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bdd6cd207c7457b92a2e464cb2a0232ef3a8f72.jpg"></article>]]></description>
-            <link>http://www.huffingtonpost.com/entry/apples-new-carekit-allows-users-to-collect-medical-data-for-their-own-use_us_56f18884e4b09bf44a9eb50f</link>
-            <guid isPermaLink="false">e7987c04-3df2-4c84-b175-06db8cc548a6</guid>
             <pubDate>Wed, 23 Mar 2016 15:29:27 GMT</pubDate>
         </item>
     </channel>
