@@ -4,8 +4,15 @@
         <description><![CDATA[The Brady Report]]></description>
         <link>https://thegrid.ai/thebradyreport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 02:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 02:47:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebradyreport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Where Is the iPod of Smartwatches?]]></title>
+            <description><![CDATA[<article><h1>Where Is the iPod of Smartwatches?</h1><p>The lifecycle of a new gadget is relatively predictable: When it's brand new, only early adopters are interested. Once the technology matures, everybody buys one. But smartwatches still haven't caught on with most people-and that's because no one has made a smartwatch that's worth its cost.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/897a8e00a9654b46e028eebde098b1e6f5179a3f.jpg"></article>]]></description>
+            <link>http://gizmodo.com/where-is-the-ipod-of-smartwatches-1765121594</link>
+            <guid isPermaLink="false">67851c9e-ca8c-4bc0-85d2-781fdb2ef5dc</guid>
+            <pubDate>Mon, 28 Mar 2016 02:47:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A groundbreaking technology will soon let us see exactly what is in our food]]></title>
             <description><![CDATA[<article><h1>A groundbreaking technology will soon let us see exactly what is in our food</h1><p>I have seen the future of food transparency, and it is optical. Also, it fits in your smartphone. Imagine a scanner the size of a grain of rice, built into your phone. You go to the grocery store and point it at something you want to buy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/619c6670dd0e256fa8f66070105e3b55357a36e1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.cnet.com/pictures/timeline-a-history-of-encryption-and-government-backdoors-pictures/#ftag=CAD590a51e</link>
             <guid isPermaLink="false">34dd6522-42a1-4874-867b-b85f8b769aeb</guid>
             <pubDate>Wed, 23 Mar 2016 15:29:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FTC issues warning to apps covertly monitoring TV broadcasts]]></title>
-            <description><![CDATA[<article><h1>FTC issues warning to apps covertly monitoring TV broadcasts</h1><p>The FTC alleges that some unnamed app developers are using this tech to monitor the TV shows you're watching. Those warning letters (PDF) mention that the apps "would be capable of producing a detailed log of the television content viewed while a user's mobile device was turned on for the purpose of targeted advertising software and analytics."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/947b4b8f4416eb36c131e0be54bf4907e89e7817.jpg"></article>]]></description>
-            <link>http://ht.ly/ZHyW0</link>
-            <guid isPermaLink="false">68df072e-4abc-4a53-ae35-f955cc3754c5</guid>
-            <pubDate>Wed, 23 Mar 2016 15:29:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
