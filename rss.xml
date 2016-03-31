@@ -4,8 +4,15 @@
         <description><![CDATA[The Brady Report]]></description>
         <link>https://thegrid.ai/thebradyreport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 22:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 22:18:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebradyreport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Camera Tech Snaps Reflection-Free Photos Through Windows]]></title>
+            <description><![CDATA[<article><h1>New Camera Tech Snaps Reflection-Free Photos Through Windows</h1><p>Taking photos through windows is annoying because light bounces off it and ruins the picture. But scientists at MIT just developed new technology that could fix the pesky reflections. Members of MIT's Media Lab have developed tech that detects how long it takes flash to bounce back off nearby objects (like, say, a window) and objects that are farther away (your subject).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c278f317c4da251701afbf691f3278694980c4b5.jpg"></article>]]></description>
+            <link>http://gizmodo.com/new-camera-tech-snaps-reflection-free-photos-through-wi-1767124570</link>
+            <guid isPermaLink="false">8685e5e2-078d-45df-937a-6b3d7c082bcc</guid>
+            <pubDate>Thu, 31 Mar 2016 22:17:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First USB-Powered 8TB Drive Is as Portable as a Flash Drive]]></title>
             <description><![CDATA[<article><h1>First USB-Powered 8TB Drive Is as Portable as a Flash Drive</h1><p>Keeping the number of power cords dangling off your desk to a minimum usually means settling for a smaller capacity backup drive that draws all the power it needs from a single USB cable. But Seagate's new Innov8 drive packs 8TB of storage into an external closure that doesn't need to draw power from an outlet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80670a670e021eb22af54cac0a4635c4082b4bc9.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>AT&T's Wi-Fi Calling Is Now a Cheap Way to Phone Home From Overseas</h1><p>Will this replace my Google Voice account?   Can it?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bd304ada13f5e278c19bcbea85b915c50f7437b.jpg"></article>]]></description>
             <link>http://gizmodo.com/at-ts-wi-fi-calling-is-now-a-cheap-way-to-phone-home-fr-1766561924</link>
             <guid isPermaLink="false">14a16a73-2698-4b14-8773-186aa7479872</guid>
-            <pubDate>Thu, 24 Mar 2016 04:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As Apple Doubles Down on Encrypted Phones, Google Sits on Its Design for a "Digital Safe"]]></title>
-            <description><![CDATA[<article><h1>As Apple Doubles Down on Encrypted Phones, Google Sits on Its Design for a "Digital Safe"</h1><p>A memory card developed by Google that upgrades a smartphone with strongly encrypted messaging and storage could improve security and trouble law enforcement. As Apple faces criticism from the FBI for refusing to help law enforcement break into iPhones, rival Google is sitting on technology that would upgrade existing mobile devices with an encrypted "digital safe" that secures data, messages, and video and voice calls.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34525e2f081bbdeb3620ee5133e93b10b6a0a19b.jpg"></article>]]></description>
-            <link>https://www.technologyreview.com/s/601058/as-apple-doubles-down-on-encrypted-phones-google-sits-on-its-design-for-a-digital-safe/#/set/id/601089/</link>
-            <guid isPermaLink="false">be8f4471-7ba5-4234-a501-40febc403943</guid>
             <pubDate>Thu, 24 Mar 2016 04:22:00 GMT</pubDate>
         </item>
     </channel>
