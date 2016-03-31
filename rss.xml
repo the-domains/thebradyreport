@@ -4,8 +4,15 @@
         <description><![CDATA[The Brady Report]]></description>
         <link>https://thegrid.ai/thebradyreport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 02:47:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 22:17:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebradyreport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Google DeepMind Plans to Solve Intelligence]]></title>
+            <description><![CDATA[<article><h1>How Google DeepMind Plans to Solve Intelligence</h1><p>Padded walls, gloomy lighting, and a ceiling with floral wallpaper. It doesn't look like a place to make groundbreaking discoveries that change the trajectory of society. But in these simulated, claustrophobic corridors, Demis Hassabis thinks he can lay the foundations for software that's smart enough to solve humanity's biggest problems. "Our goal's very big," says Hassabis, whose level-headed manner can mask the audacity of his ideas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ea48fac33f46c8a3940dd4b0f73280407a22d95.jpg"></article>]]></description>
+            <link>https://www.technologyreview.com/s/601139/how-google-deepmind-plans-to-solve-intelligence/</link>
+            <guid isPermaLink="false">f5532890-15a6-4882-adcf-b5ca595365d8</guid>
+            <pubDate>Thu, 31 Mar 2016 22:17:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Where Is the iPod of Smartwatches?]]></title>
             <description><![CDATA[<article><h1>Where Is the iPod of Smartwatches?</h1><p>The lifecycle of a new gadget is relatively predictable: When it's brand new, only early adopters are interested. Once the technology matures, everybody buys one. But smartwatches still haven't caught on with most people-and that's because no one has made a smartwatch that's worth its cost.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/897a8e00a9654b46e028eebde098b1e6f5179a3f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.techinsider.io/pebble-layoffs-2016-3</link>
             <guid isPermaLink="false">c34cd964-3dea-4787-a904-5e0a0c1e544d</guid>
             <pubDate>Thu, 24 Mar 2016 01:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Timeline: A history of encryption and government backdoors (pictures)]]></title>
-            <description><![CDATA[<article><h1>Timeline: A history of encryption and government backdoors (pictures)</h1><p>George Washington, iPhone, and the history of encryption.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf5172ab0a47f32e0acd57ec635aa2a0319d1582.jpg"></article>]]></description>
-            <link>http://www.cnet.com/pictures/timeline-a-history-of-encryption-and-government-backdoors-pictures/#ftag=CAD590a51e</link>
-            <guid isPermaLink="false">34dd6522-42a1-4874-867b-b85f8b769aeb</guid>
-            <pubDate>Wed, 23 Mar 2016 15:29:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
