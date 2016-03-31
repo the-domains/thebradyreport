@@ -4,8 +4,15 @@
         <description><![CDATA[The Brady Report]]></description>
         <link>https://thegrid.ai/thebradyreport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 22:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 22:18:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebradyreport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First USB-Powered 8TB Drive Is as Portable as a Flash Drive]]></title>
+            <description><![CDATA[<article><h1>First USB-Powered 8TB Drive Is as Portable as a Flash Drive</h1><p>Keeping the number of power cords dangling off your desk to a minimum usually means settling for a smaller capacity backup drive that draws all the power it needs from a single USB cable. But Seagate's new Innov8 drive packs 8TB of storage into an external closure that doesn't need to draw power from an outlet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80670a670e021eb22af54cac0a4635c4082b4bc9.jpg"></article>]]></description>
+            <link>http://gizmodo.com/first-usb-powered-8tb-drive-is-as-portable-as-a-flash-d-1767954348</link>
+            <guid isPermaLink="false">ddec5423-ad46-4d6d-8d1c-54f172412868</guid>
+            <pubDate>Thu, 31 Mar 2016 22:17:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Google DeepMind Plans to Solve Intelligence]]></title>
             <description><![CDATA[<article><h1>How Google DeepMind Plans to Solve Intelligence</h1><p>Padded walls, gloomy lighting, and a ceiling with floral wallpaper. It doesn't look like a place to make groundbreaking discoveries that change the trajectory of society. But in these simulated, claustrophobic corridors, Demis Hassabis thinks he can lay the foundations for software that's smart enough to solve humanity's biggest problems. "Our goal's very big," says Hassabis, whose level-headed manner can mask the audacity of his ideas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ea48fac33f46c8a3940dd4b0f73280407a22d95.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.technologyreview.com/s/601058/as-apple-doubles-down-on-encrypted-phones-google-sits-on-its-design-for-a-digital-safe/#/set/id/601089/</link>
             <guid isPermaLink="false">be8f4471-7ba5-4234-a501-40febc403943</guid>
             <pubDate>Thu, 24 Mar 2016 04:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smartwatch company Pebble is laying off 25% of its staff]]></title>
-            <description><![CDATA[<article><h1>Smartwatch company Pebble is laying off 25% of its staff</h1><p>Pebble layoffs - Tech Insider</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7898a117f97f6345d92419d0f82593fa24a8e594.jpg"></article>]]></description>
-            <link>http://www.techinsider.io/pebble-layoffs-2016-3</link>
-            <guid isPermaLink="false">c34cd964-3dea-4787-a904-5e0a0c1e544d</guid>
-            <pubDate>Thu, 24 Mar 2016 01:06:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
