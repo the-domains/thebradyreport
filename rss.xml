@@ -4,8 +4,15 @@
         <description><![CDATA[The Brady Report]]></description>
         <link>https://thegrid.ai/thebradyreport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 22:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 17:26:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebradyreport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wireless tech means safer drones, smarter homes and password-free WiFi]]></title>
+            <description><![CDATA[<article><h1>Wireless tech means safer drones, smarter homes and password-free WiFi</h1><p>We've all been there, impatiently twiddling our thumbs while trying to locate a WiFi signal. But what if, instead, the WiFi could locate us? According to researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), it could mean safer drones, smarter homes, and password-free WiFi.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28cb1f73a56862adee852a936e0b0e9956f828a2.jpg"></article>]]></description>
+            <link>http://news.mit.edu/2016/wireless-tech-means-safer-drones-smarter-homes-password-free-wifi-0331#.Vv7h8-7B_pl.twitter</link>
+            <guid isPermaLink="false">a0fcaf05-c502-4366-85b5-642af31af160</guid>
+            <pubDate>Sat, 02 Apr 2016 17:26:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Camera Tech Snaps Reflection-Free Photos Through Windows]]></title>
             <description><![CDATA[<article><h1>New Camera Tech Snaps Reflection-Free Photos Through Windows</h1><p>Taking photos through windows is annoying because light bounces off it and ruins the picture. But scientists at MIT just developed new technology that could fix the pesky reflections. Members of MIT's Media Lab have developed tech that detects how long it takes flash to bounce back off nearby objects (like, say, a window) and objects that are farther away (your subject).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c278f317c4da251701afbf691f3278694980c4b5.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.digitaltrends.com/web/gmail-security-warnings-update/</link>
             <guid isPermaLink="false">5f0130ae-0d6c-4363-9113-4d86a3568e67</guid>
             <pubDate>Sat, 26 Mar 2016 05:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AT&T's Wi-Fi Calling Is Now a Cheap Way to Phone Home From Overseas]]></title>
-            <description><![CDATA[<article><h1>AT&T's Wi-Fi Calling Is Now a Cheap Way to Phone Home From Overseas</h1><p>Will this replace my Google Voice account?   Can it?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bd304ada13f5e278c19bcbea85b915c50f7437b.jpg"></article>]]></description>
-            <link>http://gizmodo.com/at-ts-wi-fi-calling-is-now-a-cheap-way-to-phone-home-fr-1766561924</link>
-            <guid isPermaLink="false">14a16a73-2698-4b14-8773-186aa7479872</guid>
-            <pubDate>Thu, 24 Mar 2016 04:22:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
