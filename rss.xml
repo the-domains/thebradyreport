@@ -4,8 +4,15 @@
         <description><![CDATA[The Brady Report]]></description>
         <link>https://thegrid.ai/thebradyreport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 17:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 00:46:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebradyreport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Has To Happen Before Virtual Reality Can Succeed]]></title>
+            <description><![CDATA[<article><h1>This Has To Happen Before Virtual Reality Can Succeed</h1><p>The top minds in virtual reality agree. Hi, I'm Helen Situ and for the past 2 years I've dedicated my life to virtual reality. Representing NextVR, one of the most well-funded VR companies with $35M+ capital raised, I've spoken at numerous conferences, events, and my thoughts have appeared everywhere from Yahoo Tech to USA TODAY.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70012a8d4a8c949ca0119786627a8946857f7f6a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thebradyreport/this-has-to-happen-before-virtual-reality-can-succeed/index.html</link>
+            <guid isPermaLink="false">be3071c9-a7e0-47ef-bffc-a47e5c08febb</guid>
+            <pubDate>Mon, 04 Apr 2016 00:46:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wireless tech means safer drones, smarter homes and password-free WiFi]]></title>
             <description><![CDATA[<article><h1>Wireless tech means safer drones, smarter homes and password-free WiFi</h1><p>We've all been there, impatiently twiddling our thumbs while trying to locate a WiFi signal. But what if, instead, the WiFi could locate us? According to researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), it could mean safer drones, smarter homes, and password-free WiFi.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28cb1f73a56862adee852a936e0b0e9956f828a2.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Report: Google's placing its own bet on mobile livestreaming with YouTube Connect</h1><p>It looks like livestreaming is becoming a thing again. In the wake of Twitter's desire to build out Periscope and Facebook's eagerness to push Live Videos to the masses, it seems Google does not want to be left behind. According to a report from VentureBeat, which cited a source, Google has built its own livestreaming feature called YouTube Connect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/588c448b54dc3de3116d08ce57cc2699a3d268ef.jpg"></article>]]></description>
             <link>http://thenextweb.com/google/2016/03/24/report-googles-placing-bet-livestreaming-youtube-connect/</link>
             <guid isPermaLink="false">fddd9108-d2aa-4c62-a72c-1875742decbc</guid>
-            <pubDate>Sat, 26 Mar 2016 05:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gmail will now warn you if you're being targeted by the government]]></title>
-            <description><![CDATA[<article><h1>Gmail will now warn you if you're being targeted by the government</h1><p>Apple isn't the only company fighting against government-backed cyber attacks. While Apple and the FBI bicker over user security, Google is bringing security into the public eye in a different way - by simply telling you what's going on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8db7fad4040831cf5ba36f3d995aa92194affdac.jpg"></article>]]></description>
-            <link>http://www.digitaltrends.com/web/gmail-security-warnings-update/</link>
-            <guid isPermaLink="false">5f0130ae-0d6c-4363-9113-4d86a3568e67</guid>
             <pubDate>Sat, 26 Mar 2016 05:50:39 GMT</pubDate>
         </item>
     </channel>
