@@ -7,6 +7,13 @@
         <lastBuildDate>Mon, 04 Apr 2016 00:46:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebradyreport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Watch Stanford's Alarming New "Mosquito" Robot Fly, Land Vertically, and Climb Walls]]></title>
+            <description><![CDATA[<article><h1>Watch Stanford's Alarming New "Mosquito" Robot Fly, Land Vertically, and Climb Walls</h1><p>In the video above, we meet SCAMP, a new robot from the Biomimetics and Dextrous Manipulation Lab at Stanford University. SCAMP stands for Stanford Climbing and Aerial Maneuvering Platform, and its appearance and behavior make it resemble a mosquito-albeit minus the biting and itching.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7fa9e9745323527776c33b619a2df07d217ac3e.jpg"></article>]]></description>
+            <link>http://www.slate.com/articles/video/video/2016/03/scamp_is_a_robot_designed_for_disaster_areas_that_can_fly_to_walls_land.html</link>
+            <guid isPermaLink="false">bf4daf37-924b-429a-b76f-51b3c9e3bfd6</guid>
+            <pubDate>Mon, 04 Apr 2016 00:46:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[This Has To Happen Before Virtual Reality Can Succeed]]></title>
             <description><![CDATA[<article><h1>This Has To Happen Before Virtual Reality Can Succeed</h1><p>The top minds in virtual reality agree. Hi, I'm Helen Situ and for the past 2 years I've dedicated my life to virtual reality. Representing NextVR, one of the most well-funded VR companies with $35M+ capital raised, I've spoken at numerous conferences, events, and my thoughts have appeared everywhere from Yahoo Tech to USA TODAY.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70012a8d4a8c949ca0119786627a8946857f7f6a.jpg"></article>]]></description>
             <link>https://thegrid.ai/thebradyreport/this-has-to-happen-before-virtual-reality-can-succeed/index.html</link>
@@ -68,13 +75,6 @@
             <link>http://lifehacker.com/top-10-tech-security-basics-every-person-should-follow-1767148925</link>
             <guid isPermaLink="false">73905d30-d283-4422-acc2-cab3153436b9</guid>
             <pubDate>Sat, 26 Mar 2016 22:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Google's placing its own bet on mobile livestreaming with YouTube Connect]]></title>
-            <description><![CDATA[<article><h1>Report: Google's placing its own bet on mobile livestreaming with YouTube Connect</h1><p>It looks like livestreaming is becoming a thing again. In the wake of Twitter's desire to build out Periscope and Facebook's eagerness to push Live Videos to the masses, it seems Google does not want to be left behind. According to a report from VentureBeat, which cited a source, Google has built its own livestreaming feature called YouTube Connect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/588c448b54dc3de3116d08ce57cc2699a3d268ef.jpg"></article>]]></description>
-            <link>http://thenextweb.com/google/2016/03/24/report-googles-placing-bet-livestreaming-youtube-connect/</link>
-            <guid isPermaLink="false">fddd9108-d2aa-4c62-a72c-1875742decbc</guid>
-            <pubDate>Sat, 26 Mar 2016 05:50:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
