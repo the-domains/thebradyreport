@@ -4,8 +4,22 @@
         <description><![CDATA[The Brady Report]]></description>
         <link>https://thegrid.ai/thebradyreport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 00:46:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 00:46:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebradyreport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Global Warming's Terrifying New Chemistry]]></title>
+            <description><![CDATA[<article><h1>Global Warming's Terrifying New Chemistry</h1><p>* To understand how we got here, it's necessary to remember what a savior fracked natural gas looked like to many people, environmentalists included. As George W. Bush took hold of power in Washington, coal was ascendant, here and around the globe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14c17433999cab916f24cdd50892db7c3b5b1453.jpg"></article>]]></description>
+            <link>http://www.thenation.com/article/global-warming-terrifying-new-chemistry/</link>
+            <guid isPermaLink="false">f8327f8b-dc09-4b74-9ea0-aae319e24eda</guid>
+            <pubDate>Mon, 04 Apr 2016 00:46:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Mouse To End All Mice]]></title>
+            <description><![CDATA[<article><h1>The Mouse To End All Mice</h1><p>The Mouse To End All Mice Logitech's quest to make the perfect wireless mouse We're living in a world where the mouse and keyboard are quickly becoming legacy inputs. The future is a quickly-changing concept, now filled with gesture recognition and voice-only interfaces, and it surely doesn't look the same as it did when the first mouse was brought to market in 1981.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e090bf34f3e578fbbc4ad286f9141517587dcd3.jpg"></article>]]></description>
+            <link>http://www.popsci.com/logitech-chaos-spectrum-mouse</link>
+            <guid isPermaLink="false">ef1a9e24-bf0b-40aa-a74c-c088edef8cbd</guid>
+            <pubDate>Mon, 04 Apr 2016 00:46:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch Stanford's Alarming New "Mosquito" Robot Fly, Land Vertically, and Climb Walls]]></title>
             <description><![CDATA[<article><h1>Watch Stanford's Alarming New "Mosquito" Robot Fly, Land Vertically, and Climb Walls</h1><p>In the video above, we meet SCAMP, a new robot from the Biomimetics and Dextrous Manipulation Lab at Stanford University. SCAMP stands for Stanford Climbing and Aerial Maneuvering Platform, and its appearance and behavior make it resemble a mosquito-albeit minus the biting and itching.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7fa9e9745323527776c33b619a2df07d217ac3e.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.businessinsider.com/a-groundbreaking-technology-will-soon-let-us-see-exactly-what-is-in-our-food-2016-3</link>
             <guid isPermaLink="false">13a7947c-8419-4b6f-8878-4118cf7ffa26</guid>
             <pubDate>Mon, 28 Mar 2016 02:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You'll soon be able to 'holoport' anywhere in the world]]></title>
-            <description><![CDATA[<article><h1>You'll soon be able to 'holoport' anywhere in the world</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fc36928e052023cbe586420e81b25baca732d84.png"></article>]]></description>
-            <link>https://thegrid.ai/thebradyreport/youand39ll-soon-be-able-to-and39holoportand39-anywhere-in-th/index.html</link>
-            <guid isPermaLink="false">e0533313-bf83-4ae5-b1f4-0f16a648a7a7</guid>
-            <pubDate>Sat, 26 Mar 2016 22:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top 10 Tech Security Basics Every Person Should Follow]]></title>
-            <description><![CDATA[<article><h1>Top 10 Tech Security Basics Every Person Should Follow</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd6936e05d493a687dd91e7d9c77cab389ca2cc2.jpg"></article>]]></description>
-            <link>http://lifehacker.com/top-10-tech-security-basics-every-person-should-follow-1767148925</link>
-            <guid isPermaLink="false">73905d30-d283-4422-acc2-cab3153436b9</guid>
-            <pubDate>Sat, 26 Mar 2016 22:03:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
