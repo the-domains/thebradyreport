@@ -4,8 +4,15 @@
         <description><![CDATA[The Brady Report]]></description>
         <link>https://thegrid.ai/thebradyreport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 16:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 16:39:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebradyreport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[17M Netflix Subscribers Will Have to Pay $2 More to Stream HD Movies]]></title>
+            <description><![CDATA[<article><h1>17M Netflix Subscribers Will Have to Pay $2 More to Stream HD Movies</h1><p>What You Should Know About Netflix's Price Increase - ABC News</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8624824a58acb2ec77b4999fdd2f9df2f9598721.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thebradyreport/what-you-should-know-about-netflixand39s-price-increase-ab/index.html</link>
+            <guid isPermaLink="false">de8f259a-2cf0-456c-bd76-2088292fa64e</guid>
+            <pubDate>Sat, 09 Apr 2016 16:38:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Where we're going we don't need headsets: Samsung receives patent for AR contact lenses]]></title>
             <description><![CDATA[<article><h1>Where we're going we don't need headsets: Samsung receives patent for AR contact lenses</h1><p>With , Samsung was one of the first companies to get its foot in the virtual reality door. Now, it looks like the South Korean electronics giant is experimenting with augmented reality. Samsung has received a patent for "smart" contact lenses, which it originally filed in September 2014.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/088011f6d8febaee2a06f85fa1df2c0a18e86908.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>New Camera Tech Snaps Reflection-Free Photos Through Windows</h1><p>Taking photos through windows is annoying because light bounces off it and ruins the picture. But scientists at MIT just developed new technology that could fix the pesky reflections. Members of MIT's Media Lab have developed tech that detects how long it takes flash to bounce back off nearby objects (like, say, a window) and objects that are farther away (your subject).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c278f317c4da251701afbf691f3278694980c4b5.jpg"></article>]]></description>
             <link>http://gizmodo.com/new-camera-tech-snaps-reflection-free-photos-through-wi-1767124570</link>
             <guid isPermaLink="false">8685e5e2-078d-45df-937a-6b3d7c082bcc</guid>
-            <pubDate>Thu, 31 Mar 2016 22:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First USB-Powered 8TB Drive Is as Portable as a Flash Drive]]></title>
-            <description><![CDATA[<article><h1>First USB-Powered 8TB Drive Is as Portable as a Flash Drive</h1><p>Keeping the number of power cords dangling off your desk to a minimum usually means settling for a smaller capacity backup drive that draws all the power it needs from a single USB cable. But Seagate's new Innov8 drive packs 8TB of storage into an external closure that doesn't need to draw power from an outlet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80670a670e021eb22af54cac0a4635c4082b4bc9.jpg"></article>]]></description>
-            <link>http://gizmodo.com/first-usb-powered-8tb-drive-is-as-portable-as-a-flash-d-1767954348</link>
-            <guid isPermaLink="false">ddec5423-ad46-4d6d-8d1c-54f172412868</guid>
             <pubDate>Thu, 31 Mar 2016 22:17:50 GMT</pubDate>
         </item>
     </channel>
