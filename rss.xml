@@ -4,8 +4,15 @@
         <description><![CDATA[The Brady Report]]></description>
         <link>https://thegrid.ai/thebradyreport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 00:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 16:38:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebradyreport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Where we're going we don't need headsets: Samsung receives patent for AR contact lenses]]></title>
+            <description><![CDATA[<article><h1>Where we're going we don't need headsets: Samsung receives patent for AR contact lenses</h1><p>With , Samsung was one of the first companies to get its foot in the virtual reality door. Now, it looks like the South Korean electronics giant is experimenting with augmented reality. Samsung has received a patent for "smart" contact lenses, which it originally filed in September 2014.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/088011f6d8febaee2a06f85fa1df2c0a18e86908.jpg"></article>]]></description>
+            <link>http://www.cnet.com/news/where-were-going-we-dont-need-headsets-samsung-files-patent-for-smart-contact-lenses/</link>
+            <guid isPermaLink="false">90238d57-fe5a-43e8-82e6-dffbba0b25e9</guid>
+            <pubDate>Sat, 09 Apr 2016 16:38:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>YouTube</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.technologyreview.com/s/601139/how-google-deepmind-plans-to-solve-intelligence/</link>
             <guid isPermaLink="false">f5532890-15a6-4882-adcf-b5ca595365d8</guid>
             <pubDate>Thu, 31 Mar 2016 22:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where Is the iPod of Smartwatches?]]></title>
-            <description><![CDATA[<article><h1>Where Is the iPod of Smartwatches?</h1><p>The lifecycle of a new gadget is relatively predictable: When it's brand new, only early adopters are interested. Once the technology matures, everybody buys one. But smartwatches still haven't caught on with most people-and that's because no one has made a smartwatch that's worth its cost.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/897a8e00a9654b46e028eebde098b1e6f5179a3f.jpg"></article>]]></description>
-            <link>http://gizmodo.com/where-is-the-ipod-of-smartwatches-1765121594</link>
-            <guid isPermaLink="false">67851c9e-ca8c-4bc0-85d2-781fdb2ef5dc</guid>
-            <pubDate>Mon, 28 Mar 2016 02:47:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
