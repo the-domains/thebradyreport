@@ -4,8 +4,15 @@
         <description><![CDATA[The Brady Report]]></description>
         <link>https://thegrid.ai/thebradyreport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 16:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 05:07:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thebradyreport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lytro Cinema is giving filmmakers 400 gigabytes per second of creative freedom]]></title>
+            <description><![CDATA[<article><h1>Lytro Cinema is giving filmmakers 400 gigabytes per second of creative freedom</h1><p>Light field is a truly beautiful technology that is eventually going to be in every camera we snap a shot or video with. The tech essentially uses data on all of the available light in a photo to separate objects by depth and store them in a three-dimensional grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ee0a8afc337caf14741887615a51baf82ed9d66.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2016/04/11/lytro-cinema-is-giving-filmmakers-400-gigabytes-per-second-of-creative-freedom/</link>
+            <guid isPermaLink="false">100d30ee-7b2d-4441-852c-655fd9473e2e</guid>
+            <pubDate>Fri, 15 Apr 2016 05:07:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[17M Netflix Subscribers Will Have to Pay $2 More to Stream HD Movies]]></title>
             <description><![CDATA[<article><h1>17M Netflix Subscribers Will Have to Pay $2 More to Stream HD Movies</h1><p>What You Should Know About Netflix's Price Increase - ABC News</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8624824a58acb2ec77b4999fdd2f9df2f9598721.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://news.mit.edu/2016/wireless-tech-means-safer-drones-smarter-homes-password-free-wifi-0331#.Vv7h8-7B_pl.twitter</link>
             <guid isPermaLink="false">a0fcaf05-c502-4366-85b5-642af31af160</guid>
             <pubDate>Sat, 02 Apr 2016 17:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Camera Tech Snaps Reflection-Free Photos Through Windows]]></title>
-            <description><![CDATA[<article><h1>New Camera Tech Snaps Reflection-Free Photos Through Windows</h1><p>Taking photos through windows is annoying because light bounces off it and ruins the picture. But scientists at MIT just developed new technology that could fix the pesky reflections. Members of MIT's Media Lab have developed tech that detects how long it takes flash to bounce back off nearby objects (like, say, a window) and objects that are farther away (your subject).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c278f317c4da251701afbf691f3278694980c4b5.jpg"></article>]]></description>
-            <link>http://gizmodo.com/new-camera-tech-snaps-reflection-free-photos-through-wi-1767124570</link>
-            <guid isPermaLink="false">8685e5e2-078d-45df-937a-6b3d7c082bcc</guid>
-            <pubDate>Thu, 31 Mar 2016 22:17:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
